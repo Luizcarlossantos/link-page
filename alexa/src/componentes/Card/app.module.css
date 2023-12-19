@@ -1,0 +1,52 @@
+.app{
+    display: flex;
+    background-color: aliceblue;
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.principal{
+    padding: 10px;
+}
+
+.estoque{
+    color: green;
+    font-size: large;
+    
+}
+
+.botao1{
+    border: none;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.botao2{
+    border: none;
+    background-color: rgb(232, 232, 61);
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+
+img{
+    width: 500px;
+}
+
+body{
+    background-color: rgb(185, 174, 197);
+}
+
+.botao1{
+    border: none;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
